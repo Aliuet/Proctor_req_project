@@ -76,7 +76,7 @@
                                             <div class="form-group row">
                                                 <label class="col-lg-4 col-form-label" for="val-select2">Country<span class="text-danger">*</span></label>
                                                 <div class="col-lg-8">
-                                                    <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
+                                                    <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
                                                     <option value="0">Select Country</option>
 
                                                     <option value="html">KSA</option>
@@ -100,7 +100,7 @@
                                              <div class="form-group row">
                                                 <label class="col-lg-4 col-form-label" for="val-select2">City<span class="text-danger">*</span></label>
                                                 <div class="col-lg-8">
-                                                    <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose City">
+                                                    <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose City">
                                                         <option>Select Your City</option>
                                                         <option value="islamabad">islamabad</option>
                                                         <option value="lahore">lahore</option>

@@ -66,7 +66,7 @@
                                                  
                                                     <label class="col-lg-4 col-form-label" for="val-username">Communication skill</label>
                                                  <div class="col-lg-4">
-                                                    <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one">
+                                                    <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one">
                                                         <option value="0">Select Skill</option>
                                                         <option value="Excellent">Excellent</option>
                                                         <option value="Excellent">Good</option>
@@ -78,7 +78,7 @@
                                                 </div>
                                                 
                                                 <div class="col-lg-4">
-                                                    <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one">
+                                                    <select class="js-select2 form-control"  name="val-select2" style="width: 100%;" data-placeholder="Choose one">
                                                         <option value="0">Select Appearance</option>
                                                         <option value="Excellent">Strong</option>
                                                         <option value="Excellent">Normal</option>
@@ -101,7 +101,7 @@
                                                     <input type="text" class="form-control" id="val-username" name="val-username" placeholder="No of Years">
                                                 </div>
                                                 <div class="col-lg-2">
-                                                    <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one">
+                                                    <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one">
                                                         <option value="0">Select Country</option>
                                                         <option value="Excellent">KSA</option>
                                                         <option value="Excellent">UAE</option>

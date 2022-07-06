@@ -39,6 +39,10 @@ Route::get('/candidate-submission',[userController::class,'candidateSubmission']
 Route::get('/all-candidates-agency',[userController::class,'allCandidatesAgency']);
 Route::get('/selected-candidates',[userController::class,'selectedCandidates']);
 Route::get('/selected-candidate-submission',[userController::class,'selectedCandidateSubmission']);
+Route::get('/third_party_order',[userController::class,'ThirdPartyOrder']);
+Route::get('/third_party_profile',[userController::class,'ThirdPartyProfile']);
+
+
 Route::get('/interviewer-dashboard',[userController::class,'interviewerDashboard']);
 Route::get('/interviewer-profile',[userController::class,'interviewerProfile']);
 Route::get('/schedule-candidates',[userController::class,'scheduleCandidates']);
@@ -46,6 +50,7 @@ Route::get('/schedule-submission',[userController::class,'scheduleSubmission']);
 Route::get('/selection-form',[userController::class,'selectionForm']);
 Route::get('/test-form',[userController::class,'testForm']);
 Route::get('/candidate_list',[userController::class,'candidateList']);
+
 
 
 

@@ -19,13 +19,14 @@
                         <li class="label">Pages</li>
                         <li>
                             <a class="sidebar-sub-toggle">
-                                <i class="ti-files"></i> Agancy Pages
+                                <i class="ti-files"></i> Agency Pages
                                 
                                 <span class="sidebar-collapse-icon ti-angle-down"></span></a>
                                 <ul>
                                     <li><a href="agency-profile"><i class="ti-user"></i>Profile</a></li>
                                     <!-- <li><a href="agency_profile_list"><i class="ti-list"></i>Agency Profile</a></li> -->
                                      <li><a href="manage-orders"><i class="ti-heart"></i>Manage Demand</a></li>
+                                      
                                      <li><a href="agency-demand-view"><i class="ti-target"></i>Active Demand</a></li>
                                      <li><a href="orders-history-agency"><i class="ti-files"></i>Demand History</a></li>
                                      <li><a href="candidate-submission"><i class="ti-home"></i>Candidates Submission</a></li>

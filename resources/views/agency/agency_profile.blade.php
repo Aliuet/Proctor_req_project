@@ -81,7 +81,7 @@
                                           <div class="form-group row">
                                             <label class="col-lg-4 col-form-label" for="val-select2">Registered office Country<span class="text-danger"> *</span></label>
                                             <div class="col-lg-8">
-                                                <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
+                                                <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
                                                     <option value="0">Select Country</option>
 
                                                     <option value="html">KSA</option>
@@ -104,7 +104,7 @@
                                         <div class="form-group row">
                                             <label class="col-lg-4 col-form-label" for="val-select2">Registered office City<span class="text-danger"> *</span></label>
                                             <div class="col-lg-8">
-                                                <select class="js-select2 form-control" id="val-select2" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
+                                                <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
                                                     <option value="0">Select City</option>
 
                                                     <option value="html">Riaz</option>
@@ -116,6 +116,7 @@
                                                 </select>
                                             </div>
                                         </div>
+
                                         <div class="form-group row">
                                             <label class="col-lg-4 col-form-label" for="val-username">Overseas Employment License<span class="text-danger"> *</span></label>
                                             <div class="col-lg-8">
@@ -173,6 +174,7 @@
 
     <!-- jquery vendor -->
    @include('agencydash.scripts')
+  
 </body>
 
 </html>

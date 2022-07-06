@@ -27,3 +27,11 @@
     <script src="{{asset('assets/js/dashboard2.js')}}"></script>
     <script src="{{asset('assets/js/lib/sweetalert/sweetalert.min.js')}}"></script>
     <script src="{{asset('assets/js/lib/sweetalert/sweetalert.init.js')}}"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
+    
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/select2/4.0.10/js/select2.min.js"></script> -->
+  <script>
+  $('.js-select2').select2();
+</script>

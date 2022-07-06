@@ -71,7 +71,13 @@ class userController extends Controller
     {
         return view('agency.agency_profile_list');
     }
+    public function ThirdPartyOrder(){
+        return view('contractor.third_party_order');
+    }
+    public function ThirdPartyProfile(){
+        return view('contractor.third_party_profile');
 
+    }
 
 
     public function manageOrders()

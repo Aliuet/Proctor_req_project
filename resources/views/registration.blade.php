@@ -54,15 +54,26 @@
                                     <input type="password" class="form-control" placeholder="Password">
                                 </div>
 
-                                <div class="dropdown">
-  <button style="text-color: black;" class=" dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
-    Register as
+
+                                   <div class="form-group row">
+                                            <label>Registered As</label>
+                                                <select class="js-select2 form-control" name="val-select2" style="width: 100%;" data-placeholder="Choose one..">
+                                                    <option value="0"></option>
+
+                                                    <option value="html">Contractor</option>
+                                                    <option value="css">Agency</option>                                    
+                                                </select>
+                                          
+                                        </div>
+<!-- 
+                                <div class="dropdown js-select2">
+                                    <button style="text-color: black;" class=" dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false"> Register as
   </button>
   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">
     <li><a class="dropdown-item" href="#">Contractor</a></li>
     <li><a class="dropdown-item" href="#">Agency</a></li>
   </ul>
-</div>
+</div> -->
 <br>
 
                                 <div class="checkbox">

@@ -24,6 +24,9 @@
                                 <li><a href="contr-profile"><i class="ti-user"></i>Profile</a></li>
                                 <!-- <li><a href="contr_profile_list"><i class="ti-user"></i>contractor Profile</a></li> -->
                                 <li><a href="agencies-profile"><i class="ti-user"></i>Agencies Profile</a></li>
+                                <li><a href="third_party_profile"><i class="ti-user"></i>Third Party profile</a></li>
+                                <li><a href="third_party_order"><i class="ti-user"></i>Third Party Order</a></li>
+
                                 <li><a href="order-placed"><i class="ti-target"></i>Active Demand</a></li>
                                 <li><a href="orders-history"><i class="ti-target"></i>Demand History</a></li>
                                 <li><a href="add-interviewer"><i class="ti-plus"></i>Add Interviewer</a></li>

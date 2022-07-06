@@ -125,7 +125,7 @@
                                                 <div class="col-lg-8 ml-auto">
                                                     <a href="order-placed"><button type="button" 
                                                         class="btn btn-success btn sweet-message">Submit</button>
-                                                    <a href="agencies-profile"><button type="button" class="btn btn-info sweet-wrong">Back To Agancy</button>
+                                                    <a href="third_party_profile"><button type="button" class="btn btn-info sweet-wrong">Back</button>
                                                 </div>
                                             </div>
                                            

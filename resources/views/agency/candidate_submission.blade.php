@@ -113,7 +113,7 @@
                                                             <td><input type="date" name="" placeholder="Passport Issue Date"/> </td>
                                                             <td><input type="date" name="" placeholder="Passport valid Upto"/> </td>
                                                             <td>
-                                                                <select name="select">
+                                                                <select name="select" class="js-select2">
                                                                     <option value="0" >--Select Your Marital Status--</option>
                                                                    <option value="male" >Single</option>
                                                                    <option value="female" >Married</option>
@@ -121,7 +121,7 @@
                                                                 </select>
                                                             </td>
                                                             <td>
-                                                            <select name="select">
+                                                            <select name="select" class="js-select2">
                                                                 <option value="0" >--Select Your Language--</option>
                                                                 <option value="English" >English</option>
                                                                 <option value="Urdu" >Urdu</option>
